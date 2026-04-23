@@ -1,4 +1,4 @@
-SQL Sales Analysis Project #|human|>SQL Sales Analysis Project
+SQL Sales Analysis Project 
 
 Project Overview
 
